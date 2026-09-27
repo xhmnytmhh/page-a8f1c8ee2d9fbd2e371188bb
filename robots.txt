@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.eu2g0c.cn/sitemap.xml
